@@ -21,8 +21,7 @@ export const data = defineData({
   authorizationModes: {
     defaultAuthorizationMode: "userPool",
     },
-  },
-});
+  });
 
 /*== STEP 2 ===============================================================
 Go to your frontend source code. From your client-side code, generate a
